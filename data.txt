@@ -1,0 +1,139 @@
+Xref: cantaloupe.srv.cs.cmu.edu comp.os.ms-windows.misc:8514 comp.os.msdos.misc:11971 comp.os.os2.misc:54352
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!darwin.sura.net!dtix.dt.navy.mil!oasys!lipman
+From: lipman@oasys.dt.navy.mil (Robert Lipman)
+Newsgroups: comp.os.ms-windows.misc,comp.os.msdos.misc,comp.os.os2.misc
+Subject: CALL FOR PRESENTATIONS: Navy SciViz/VR Seminar
+Message-ID: <32872@oasys.dt.navy.mil>
+Date: 19 Mar 93 20:33:45 GMT
+Expires: 30 Apr 93 04:00:00 GMT
+Reply-To: lipman@oasys.dt.navy.mil (Robert Lipman)
+Followup-To: comp.os.ms-windows.misc
+Distribution: usa
+Organization: Carderock Division, NSWC, Bethesda, MD
+Lines: 66
+
+
+			CALL FOR PRESENTATIONS
+	
+      NAVY SCIENTIFIC VISUALIZATION AND VIRTUAL REALITY SEMINAR
+
+			Tuesday, June 22, 1993
+
+	    Carderock Division, Naval Surface Warfare Center
+	      (formerly the David Taylor Research Center)
+			  Bethesda, Maryland
+
+SPONSOR: NESS (Navy Engineering Software System) is sponsoring a 
+one-day Navy Scientific Visualization and Virtual Reality Seminar.  
+The purpose of the seminar is to present and exchange information for
+Navy-related scientific visualization and virtual reality programs, 
+research, developments, and applications.
+
+PRESENTATIONS: Presentations are solicited on all aspects of 
+Navy-related scientific visualization and virtual reality.  All 
+current work, works-in-progress, and proposed work by Navy 
+organizations will be considered.  Four types of presentations are 
+available.
+
+     1. Regular presentation: 20-30 minutes in length
+     2. Short presentation: 10 minutes in length
+     3. Video presentation: a stand-alone videotape (author need not 
+	attend the seminar)
+     4. Scientific visualization or virtual reality demonstration (BYOH)
+
+Accepted presentations will not be published in any proceedings, 
+however, viewgraphs and other materials will be reproduced for 
+seminar attendees.
+
+ABSTRACTS: Authors should submit a one page abstract and/or videotape to:
+
+     Robert Lipman
+     Naval Surface Warfare Center, Carderock Division
+     Code 2042
+     Bethesda, Maryland  20084-5000
+
+     VOICE (301) 227-3618;  FAX (301) 227-5753  
+     E-MAIL  lipman@oasys.dt.navy.mil
+
+Authors should include the type of presentation, their affiliations, 
+addresses, telephone and FAX numbers, and addresses.  Multi-author 
+papers should designate one point of contact.
+
+DEADLINES: The abstact submission deadline is April 30, 1993.  
+Notification of acceptance will be sent by May 14, 1993.  
+Materials for reproduction must be received by June 1, 1993.
+
+For further information, contact Robert Lipman at the above address.
+
+	  PLEASE DISTRIBUTE AS WIDELY AS POSSIBLE, THANKS.
+
+
+
+
+Robert Lipman                     | Internet: lipman@oasys.dt.navy.mil
+David Taylor Model Basin - CDNSWC |       or: lip@ocean.dt.navy.mil
+Computational Signatures and      | Voicenet: (301) 227-3618
+   Structures Group, Code 2042    | Factsnet: (301) 227-5753
+Bethesda, Maryland  20084-5000    | Phishnet: stockings@long.legs
+				   
+The sixth sick shiek's sixth sheep's sick.
+
+Path: cantaloupe.srv.cs.cmu.edu!rochester!cornell!uw-beaver!cs.ubc.ca!unixg.ubc.ca!kakwa.ucs.ualberta.ca!alberta!camrose!bjorndahl
+From: bjorndahl@augustana.ab.ca
+Newsgroups: comp.os.ms-windows.misc
+Subject: Re: document of .RTF
+Message-ID: <1993Apr5.090952.9843@augustana.ab.ca>
+Date: 5 Apr 93 09:09:52 MDT
+References: <1993Mar30.113436.7339@worak.kaist.ac.kr>
+Organization: Augustana University College, Camrose, Alberta
+Lines: 10
+
+In article <1993Mar30.113436.7339@worak.kaist.ac.kr>, tjyu@eve.kaist.ac.kr (Yu TaiJung) writes:
+> Does anybody have document of .RTF file or know where I can get it?
+> 
+> Thanks in advance. :)
+
+I got one from Microsoft tech support.
+
+-- 
+Sterling G. Bjorndahl, bjorndahl@Augustana.AB.CA or bjorndahl@camrose.uucp
+Augustana University College, Camrose, Alberta, Canada      (403) 679-1100
+
+Path: cantaloupe.srv.cs.cmu.edu!crabapple.srv.cs.cmu.edu!fs7.ece.cmu.edu!europa.eng.gtefsd.com!paladin.american.edu!gatech!purdue!haven.umd.edu!uunet!wupost!waikato.ac.nz!comp.vuw.ac.nz!zephyr.grace.cri.nz!zephyr.grace.cri.nz!usenet
+Newsgroups: comp.os.ms-windows.misc
+Subject: re: WINBENCH 3.11 help -- graphics comparison?!?
+Message-ID: <1pqd9hINNbmi@zephyr.grace.cri.nz>
+From: srg3sir@grv.grace.cri.nz
+Date: 5 Apr 1993 22:53:37 GMT
+Sender: srg3sir@grv.grace.cri.nz
+References: <C4zoGD.C56@news.udel.edu>
+Distribution: world
+Organization: Industrial Research Ltd., New Zealand.
+NNTP-Posting-Host: rmayston.grace.cri.nz
+Lines: 25
+
+
+
+In article <C4zoGD.C56@news.udel.edu> swyatt@bach.udel.edu (Stephen L Wyatt) writes:
+>I have a question about WINBENCH (pc labs thing) 3.11..
+>
+>I have a 386/33 and a Ahead B (512k) card and got these results-
+>
+>windows vga driver - 2.44 million
+>ahead B (640-480-256) driver - 455,000 winmarks
+>windows svga (800-600-16) driver - 1.68 million winmarks...
+>
+>I was thinking about upgrading to a diamond 24x card.. I read it had about
+>8 million winmark..
+>
+>obviously this is MUCH MUCH greater... but is this in 256-color mode or what?
+>is this a good card...street price is about $170...
+
+On my 386dx 33Mhz 4Mb RAM
+Winbench 2.5
+ 24x v2.02 16.7M        1,668,274
+     v2.03 16.7M        1,668,985
+     v2.03 16           4,602,428
+     v2.03 256          7,635,278
+Richard Mayston
+maystonr@grace.cri.nz
